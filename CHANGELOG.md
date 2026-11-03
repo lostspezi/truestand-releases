@@ -2,6 +2,20 @@
 
 Deutsch zuerst, English below each version.
 
+## [0.9.0-beta.5] - 2026-11-03
+
+„Jetzt nach Updates suchen“ sagt jetzt, was dabei herauskam.
+
+- Du siehst, ob du schon die neueste Version hast, ob eine neue geladen ist oder ob gerade keine Verbindung besteht.
+- Dies ist das erste Update, das du automatisch bekommst.
+
+### English
+
+"Check for updates now" now tells you the result.
+
+- You see whether you already have the latest version, whether a new one is downloaded, or whether there is no connection right now.
+- This is the first update you get automatically.
+
 ## [0.9.0-beta.4] - 2026-11-03
 
 Probe für das automatische Update, sonst keine Änderungen.
