@@ -1,6 +1,8 @@
 # TrueStand
 
-> **Neu in 0.9.0-beta.3**
+> **Aktuelle Version: 0.9.0-beta.5.** „Jetzt nach Updates suchen“ sagt jetzt, was dabei herauskam.
+>
+> Zuletzt neu in 0.9.0-beta.3:
 > - Erste Beta für Tester.
 > - Installer: herunterladen, doppelklicken, fertig. Ohne Administratorrechte, mit Startmenü-Eintrag und Deinstallation unter „Apps“.
 > - Die SimConnect.dll ist dabei, das MSFS-SDK brauchst du nicht.
@@ -61,6 +63,8 @@ Der Quellcode ist nicht öffentlich.
 ---
 
 # TrueStand (English)
+
+> **Current version: 0.9.0-beta.5.** "Check for updates now" now tells you the result. All changes: [CHANGELOG.md](CHANGELOG.md)
 
 TrueStand suggests the stand where the real aircraft parks for your flight in Microsoft Flight Simulator. You load your SimBrief plan, TrueStand looks for the real flight via ADS-B and remembers where it parked. At your destination you get that stand, or the next best one if it is occupied or does not fit your scenery.
 
