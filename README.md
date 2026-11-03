@@ -1,12 +1,9 @@
 # TrueStand
 
-> **Aktuelle Version: 0.9.0-beta.5.** „Jetzt nach Updates suchen“ sagt jetzt, was dabei herauskam.
+> **Aktuelle Version: 0.9.0-beta.6.** Unter „Über TrueStand“ findest du jetzt die Datenschutzhinweise.
 >
-> Zuletzt neu in 0.9.0-beta.3:
-> - Erste Beta für Tester.
-> - Installer: herunterladen, doppelklicken, fertig. Ohne Administratorrechte, mit Startmenü-Eintrag und Deinstallation unter „Apps“.
-> - Die SimConnect.dll ist dabei, das MSFS-SDK brauchst du nicht.
-> - Updates kommen automatisch und signiert, abschaltbar in den Einstellungen.
+> Neu in 0.9.0-beta.6:
+> - Link „Datenschutzhinweise“ in Einstellungen → Über TrueStand.
 >
 > Alle Änderungen: [CHANGELOG.md](CHANGELOG.md)
 
@@ -56,7 +53,7 @@ Fehler, Fragen und Ideen bitte direkt aus der App über „Problem melden“. Du
 ## Datenschutz
 
 TrueStand läuft auf deinem PC, hat kein Konto und schickt keine Nutzungsstatistik. Daten gehen nur an die Dienste, die du nutzt, und an mich nur, wenn du selbst etwas meldest.
-<!-- PRIVACY_URL: Link auf die Datenschutzseite ergaenzen, sobald sie online ist -->
+Einzelheiten: [Datenschutzhinweise für TrueStand](https://deltaoscarsim.de/impressum.html#truestand-app).
 
 Der Quellcode ist nicht öffentlich.
 
@@ -64,7 +61,7 @@ Der Quellcode ist nicht öffentlich.
 
 # TrueStand (English)
 
-> **Current version: 0.9.0-beta.5.** "Check for updates now" now tells you the result. All changes: [CHANGELOG.md](CHANGELOG.md)
+> **Current version: 0.9.0-beta.6.** "About TrueStand" now links the privacy notice. All changes: [CHANGELOG.md](CHANGELOG.md)
 
 TrueStand suggests the stand where the real aircraft parks for your flight in Microsoft Flight Simulator. You load your SimBrief plan, TrueStand looks for the real flight via ADS-B and remembers where it parked. At your destination you get that stand, or the next best one if it is occupied or does not fit your scenery.
 
@@ -99,7 +96,7 @@ Please use "Report a problem" in the app. You see exactly what is sent before se
 
 ## Privacy
 
-TrueStand runs on your PC, has no account and sends no usage statistics. Data only goes to the services you use, and to me only when you report something yourself.
+TrueStand runs on your PC, has no account and sends no usage statistics. Data only goes to the services you use, and to me only when you report something yourself. Details (German): [privacy notice for TrueStand](https://deltaoscarsim.de/impressum.html#truestand-app).
 
 The source code is not public.
 
