@@ -2,6 +2,14 @@
 
 Deutsch zuerst, English below each version.
 
+## [0.9.0-beta.4] - 2026-11-03
+
+Probe für das automatische Update, sonst keine Änderungen.
+
+### English
+
+Test of the automatic update, no other changes.
+
 ## [0.9.0-beta.3] - 2026-11-03
 
 Erste Beta für Tester.
