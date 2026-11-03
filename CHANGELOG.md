@@ -2,6 +2,18 @@
 
 Deutsch zuerst, English below each version.
 
+## [0.9.0-beta.6] - 2026-11-04
+
+Unter „Über TrueStand“ findest du jetzt die Datenschutzhinweise.
+
+- Link „Datenschutzhinweise“ in Einstellungen → Über TrueStand.
+
+### English
+
+"About TrueStand" now links the privacy notice.
+
+- Link "Privacy notice" under Settings → About TrueStand.
+
 ## [0.9.0-beta.5] - 2026-11-03
 
 „Jetzt nach Updates suchen“ sagt jetzt, was dabei herauskam.
