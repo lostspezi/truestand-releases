@@ -2,6 +2,26 @@
 
 Deutsch zuerst, English below each version.
 
+## [0.9.0-beta.7] - 2026-11-04
+
+„Echter Flug“ aktualisiert sich jetzt von selbst.
+
+- TrueStand sucht den echten Flug regelmäßig neu: vor dem Start alle 5 Minuten, in der Luft alle 2 Minuten, kurz vor der Landung jede Minute.
+- In der Luft siehst du die geschätzte Landezeit, dazu wann er zuletzt gesehen wurde.
+- Parkt der echte Flug, übernimmt „Automatisch“ seinen Stand. In den anderen Arbeitsweisen fragt TrueStand: „Der echte Flug parkt an F50. Übernehmen?“
+- Ist er am Boden noch nicht zu sehen, sagt TrueStand das, statt „Nicht gefunden“ zu zeigen.
+- „Problem melden“: Die Arten heißen jetzt „Fehler oder falscher Stand“ und „Idee oder Wunsch“.
+
+### English
+
+"Real flight" now updates by itself.
+
+- TrueStand looks for the real flight again and again: every 5 minutes before departure, every 2 minutes in the air, every minute shortly before landing.
+- In the air you see the estimated landing time and when it was last seen.
+- When the real flight parks, "Automatic" takes its stand. In the other modes TrueStand asks: "The real flight parks at F50. Take it?"
+- If it is not visible on the ground yet, TrueStand says so instead of showing "Not found".
+- "Report a problem": the kinds are now "Bug or wrong stand" and "Idea or wish".
+
 ## [0.9.0-beta.6] - 2026-11-04
 
 Unter „Über TrueStand“ findest du jetzt die Datenschutzhinweise.
