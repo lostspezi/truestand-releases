@@ -1,9 +1,13 @@
 # TrueStand
 
-> **Aktuelle Version: 0.9.0-beta.6.** Unter „Über TrueStand“ findest du jetzt die Datenschutzhinweise.
+> **Aktuelle Version: 0.9.0-beta.7.** „Echter Flug“ aktualisiert sich jetzt von selbst.
 >
-> Neu in 0.9.0-beta.6:
-> - Link „Datenschutzhinweise“ in Einstellungen → Über TrueStand.
+> Neu in 0.9.0-beta.7:
+> - TrueStand sucht den echten Flug regelmäßig neu: vor dem Start alle 5 Minuten, in der Luft alle 2 Minuten, kurz vor der Landung jede Minute.
+> - In der Luft siehst du die geschätzte Landezeit, dazu wann er zuletzt gesehen wurde.
+> - Parkt der echte Flug, übernimmt „Automatisch“ seinen Stand. In den anderen Arbeitsweisen fragt TrueStand: „Der echte Flug parkt an F50. Übernehmen?“
+> - Ist er am Boden noch nicht zu sehen, sagt TrueStand das, statt „Nicht gefunden“ zu zeigen.
+> - „Problem melden“: Die Arten heißen jetzt „Fehler oder falscher Stand“ und „Idee oder Wunsch“.
 >
 > Alle Änderungen: [CHANGELOG.md](CHANGELOG.md)
 
@@ -61,7 +65,7 @@ Der Quellcode ist nicht öffentlich.
 
 # TrueStand (English)
 
-> **Current version: 0.9.0-beta.6.** "About TrueStand" now links the privacy notice. All changes: [CHANGELOG.md](CHANGELOG.md)
+> **Current version: 0.9.0-beta.7.** "Real flight" now updates by itself. All changes: [CHANGELOG.md](CHANGELOG.md)
 
 TrueStand suggests the stand where the real aircraft parks for your flight in Microsoft Flight Simulator. You load your SimBrief plan, TrueStand looks for the real flight via ADS-B and remembers where it parked. At your destination you get that stand, or the next best one if it is occupied or does not fit your scenery.
 
